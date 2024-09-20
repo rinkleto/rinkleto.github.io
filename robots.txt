@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rinkleto.github.io/sitemap.html.gz
+Sitemap: https://rinkleto.github.io/app/sitemap.html.gz
+Sitemap: https://rinkleto.github.io/assets/sitemap.html.gz
+Sitemap: https://rinkleto.github.io/css/sitemap.html.gz
+Sitemap: https://rinkleto.github.io/data/sitemap.html.gz
+Sitemap: https://rinkleto.github.io/includes/sitemap.html.gz
+Sitemap: https://rinkleto.github.io/item/sitemap.html.gz
+Sitemap: https://rinkleto.github.io/src/sitemap.html.gz
